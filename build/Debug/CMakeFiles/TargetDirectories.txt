@@ -1,0 +1,14 @@
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/list_install_components.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/HW2.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/glad.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/install/local.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/install.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/CMakeFiles/install/strip.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/install/strip.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/install/local.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/install.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/edit_cache.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/rebuild_cache.dir
+C:/Users/ycc76/Desktop/HW2/build/Debug/ext/glm/CMakeFiles/list_install_components.dir

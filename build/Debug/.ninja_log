@@ -1,0 +1,10 @@
+# ninja log v5
+7	1960	6826123221098586	CMakeFiles/HW2.dir/src/world.cpp.obj	c56b879166e5ea27
+22	3284	6826123234378932	CMakeFiles/HW2.dir/src/STLmodel.cpp.obj	626a355343659f02
+27	3573	6826123237241262	CMakeFiles/HW2.dir/src/matrixStack.cpp.obj	54424565dd4241e9
+35	3710	6826123238687351	CMakeFiles/HW2.dir/src/Texture.cpp.obj	470e6cdef85afc84
+14	4548	6826123247080288	CMakeFiles/HW2.dir/src/stb_image.cpp.obj	15d4fa652936d6e3
+1	4629	6826123247893789	CMakeFiles/HW2.dir/src/main.cpp.obj	2de6f28c09d471f5
+43	5666	6826123258282412	CMakeFiles/glad.dir/ext/glad/src/glad.c.obj	763c71b32c1a23de
+5670	6045	6826123262084948	libglad.a	e6b3c1d9e5c4c881
+6045	9896	6826123273872963	HW2.exe	7a3d4aef0ef1eaa
